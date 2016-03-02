@@ -5,7 +5,9 @@ Works with the LiLapin (Epitech's graphic lib, based on SFML)
 
 We had to code a Doom-Like game.
 
-Bonus :   - Our own 3D engine
+Bonus :   
+
+          - Our own 3D engine
           - Multiplayer
               - In-game chat (TPC thread)
               - Up to 8 players (UDP thread)
