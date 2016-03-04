@@ -17,4 +17,4 @@ Bonus :
 
 Because of a huge lack of time, the project isn't 100% finished / working, but stay tuned for the v2 !
 
-Realised with Luka Boulagnon, Ludovic Petrenko and Lucas Troncy.
+Realized with Luka Boulagnon, Ludovic Petrenko and Lucas Troncy.
